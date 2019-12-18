@@ -1,5 +1,4 @@
-# FizzBuzzExamples
-Collection of FizzBuzz Examples
+# FizzBuzz Instructions
 
 # Task Description
 
